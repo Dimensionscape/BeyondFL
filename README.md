@@ -16,3 +16,5 @@ Benefits of BeyondFL include:
 - Web API
 - Native WS Socket Support
 - Native WS ServerSocket Support
+- Zip API
+- ...more
