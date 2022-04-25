@@ -14,3 +14,5 @@ Benefits of BeyondFL include:
 - Video Support
 - Mobile API
 - Web API
+- Native WS Socket Support
+- Native WS ServerSocket Support
